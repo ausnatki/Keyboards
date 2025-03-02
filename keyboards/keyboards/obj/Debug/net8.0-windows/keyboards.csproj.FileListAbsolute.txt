@@ -1,0 +1,16 @@
+D:\我的代码\keyboards\keyboards\keyboards\bin\Debug\net8.0-windows\keyboards.exe
+D:\我的代码\keyboards\keyboards\keyboards\bin\Debug\net8.0-windows\keyboards.deps.json
+D:\我的代码\keyboards\keyboards\keyboards\bin\Debug\net8.0-windows\keyboards.runtimeconfig.json
+D:\我的代码\keyboards\keyboards\keyboards\bin\Debug\net8.0-windows\keyboards.dll
+D:\我的代码\keyboards\keyboards\keyboards\bin\Debug\net8.0-windows\keyboards.pdb
+D:\我的代码\keyboards\keyboards\keyboards\obj\Debug\net8.0-windows\keyboards.Form1.resources
+D:\我的代码\keyboards\keyboards\keyboards\obj\Debug\net8.0-windows\keyboards.csproj.GenerateResource.cache
+D:\我的代码\keyboards\keyboards\keyboards\obj\Debug\net8.0-windows\keyboards.GeneratedMSBuildEditorConfig.editorconfig
+D:\我的代码\keyboards\keyboards\keyboards\obj\Debug\net8.0-windows\keyboards.AssemblyInfoInputs.cache
+D:\我的代码\keyboards\keyboards\keyboards\obj\Debug\net8.0-windows\keyboards.AssemblyInfo.cs
+D:\我的代码\keyboards\keyboards\keyboards\obj\Debug\net8.0-windows\keyboards.csproj.CoreCompileInputs.cache
+D:\我的代码\keyboards\keyboards\keyboards\obj\Debug\net8.0-windows\keyboards.dll
+D:\我的代码\keyboards\keyboards\keyboards\obj\Debug\net8.0-windows\refint\keyboards.dll
+D:\我的代码\keyboards\keyboards\keyboards\obj\Debug\net8.0-windows\keyboards.pdb
+D:\我的代码\keyboards\keyboards\keyboards\obj\Debug\net8.0-windows\keyboards.genruntimeconfig.cache
+D:\我的代码\keyboards\keyboards\keyboards\obj\Debug\net8.0-windows\ref\keyboards.dll

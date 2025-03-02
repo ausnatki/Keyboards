@@ -1,0 +1,10 @@
+D:\我的代码\keyboards\SKKeyboard\WindowsFormsApp1\demo1key\bin\Debug\demo1key.exe.config
+D:\我的代码\keyboards\SKKeyboard\WindowsFormsApp1\demo1key\bin\Debug\demo1key.exe
+D:\我的代码\keyboards\SKKeyboard\WindowsFormsApp1\demo1key\bin\Debug\demo1key.pdb
+D:\我的代码\keyboards\SKKeyboard\WindowsFormsApp1\demo1key\obj\Debug\demo1key.csproj.AssemblyReference.cache
+D:\我的代码\keyboards\SKKeyboard\WindowsFormsApp1\demo1key\obj\Debug\demo1key.Properties.Resources.resources
+D:\我的代码\keyboards\SKKeyboard\WindowsFormsApp1\demo1key\obj\Debug\demo1key.csproj.GenerateResource.cache
+D:\我的代码\keyboards\SKKeyboard\WindowsFormsApp1\demo1key\obj\Debug\demo1key.csproj.CoreCompileInputs.cache
+D:\我的代码\keyboards\SKKeyboard\WindowsFormsApp1\demo1key\obj\Debug\demo1key.exe
+D:\我的代码\keyboards\SKKeyboard\WindowsFormsApp1\demo1key\obj\Debug\demo1key.pdb
+D:\我的代码\keyboards\SKKeyboard\WindowsFormsApp1\demo1key\obj\Debug\demo1key.Form1.resources
